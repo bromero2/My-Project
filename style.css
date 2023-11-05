@@ -1,0 +1,57 @@
+.navbar {
+	background-color: rgb(25, 45, 86) !important;
+}
+.nav-link, .navbar-brand {
+	color:#ffffff;
+}
+.nav-link:hover {
+	color: red;
+}
+
+header {
+    background-color: rgb(76, 178, 203);
+    color: aliceblue
+}
+main {
+    background-color: rgb(82, 85, 85);
+    color: aliceblue
+}
+
+
+body {
+    background-color: #ffffff;
+    font-family: Arial;
+    font-size: smaller;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer {
+    background-color: rgb(25, 45, 86);
+    font-size: medium;
+    font-style: italic;
+    color: aliceblue;
+    margin-top: auto;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid #cccccc;
+    border-spacing: 0;
+
+}
+
+table {
+    width: 100%;
+}
+
+td, th {
+    padding: 20px;
+}
+.logoImg {
+    width: 50px;
+}
+.logoDiv {
+    text-align: center;
+}
+
